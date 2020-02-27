@@ -18,6 +18,10 @@ hasCJKLanguage = true
     section = ["JSON", "HTML"]
     taxonomy = ["JSON", "HTML"]
 
+[build]
+publish = “public”
+command = "hugo --theme=dimension --buildDrafts --gc --minify"
+
       [[menu.main]]
           identifier = "blog"
           # name = "Blog" #If display text link, cancel comment out

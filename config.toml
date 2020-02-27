@@ -20,8 +20,7 @@ hasCJKLanguage = true
 
 [build]
 publish = “public”
-command = "hugo --theme=dimension --buildDrafts --gc --minify"
-
+command = "hugo --theme='pulp' --buildDrafts --gc --minify"
       [[menu.main]]
           identifier = "blog"
           # name = "Blog" #If display text link, cancel comment out

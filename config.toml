@@ -5,7 +5,7 @@ theme = "pulp"
 copyright = "© Kiri"
 hasCJKLanguage = true
 publish = "public"
-command = "hugo --theme=pulp -D"
+
 
 [params]
   author = "きり"

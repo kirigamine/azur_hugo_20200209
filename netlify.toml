@@ -1,1 +1,3 @@
+[build]
 command = "hugo --theme=pulp -D"
+publish = "public"

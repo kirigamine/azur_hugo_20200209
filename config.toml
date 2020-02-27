@@ -4,7 +4,7 @@ title = "Kiri"
 theme = "pulp"
 copyright = "© Kiri"
 hasCJKLanguage = true
-publish = "public"
+
 
 
 [params]

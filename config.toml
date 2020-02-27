@@ -1,0 +1,54 @@
+baseURL = "http://example.org/"
+languageCode = "ja-jp"
+title = "Kiri"
+theme = "pulp"
+copyright = "© Kiri"
+hasCJKLanguage = true
+
+[params]
+  author = "きり"
+  avatar = "logo.png"
+  description = """
+    きりです。おえかきとおんがくがすきです。<br />
+    オリジナルの作品作ることもすきです。
+  """
+      publicationYear = "2020"
+
+[outputs]
+    section = ["JSON", "HTML"]
+    taxonomy = ["JSON", "HTML"]
+
+      [[menu.main]]
+          identifier = "blog"
+          # name = "Blog" #If display text link, cancel comment out
+          pre = "<i class='fa fa-book-open fa-lg'></i>" #Choose your favorite font from Font Awesome
+          url = "/posts/"
+          weight = 10
+
+      [[menu.main]]
+          identifier = "twitter"
+          # name = "Twitter"
+          pre = "<i class='fab fa-twitter fa-lg'></i>"
+          url = "https://twitter.com/kirichanpc"
+          weight = 20
+
+      [[menu.main]]
+          identifier = "parocora"
+          # name = "パロコラ"
+          pre = "<img src='img/pa.png'>"
+          url = "https://oc-paro.net/users/profile/kirichan"
+          weight = 30
+
+      [[menu.main]]
+          identifier = "soundcloud"
+          # name = "soundcloud"
+          pre = "<i class='fab fa-soundcloud fa-lg'></i>"
+          url = "https://soundcloud.com/kirikirifoggy"
+          weight = 40
+
+      [[menu.main]]
+          identifier = "instagram"
+          # name = "instagram"
+          pre = "<i class='fab fa-instagram fa-lg'></i>"
+          url = "https://www.instagram.com/kiriwithpen/"
+          weight = 50

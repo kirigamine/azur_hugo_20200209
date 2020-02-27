@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://kirichan.netlify.com/"
 languageCode = "ja-jp"
 title = "Kiri"
 theme = "pulp"

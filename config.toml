@@ -4,6 +4,8 @@ title = "Kiri"
 theme = "pulp"
 copyright = "© Kiri"
 hasCJKLanguage = true
+publish = "public"
+command = "hugo --theme=pulp -D"
 
 [params]
   author = "きり"
@@ -18,9 +20,6 @@ hasCJKLanguage = true
     section = ["JSON", "HTML"]
     taxonomy = ["JSON", "HTML"]
 
-[build]
-publish = “public”
-command = "hugo --theme=pulp -D"
       [[menu.main]]
           identifier = "blog"
           # name = "Blog" #If display text link, cancel comment out

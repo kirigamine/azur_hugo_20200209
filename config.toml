@@ -3,6 +3,7 @@ languageCode = "ja-jp"
 title = "Kiri"
 theme = "pulp"
 copyright = "© Kiri"
+twitterCardEnabled = true
 hasCJKLanguage = true
 
 [params]

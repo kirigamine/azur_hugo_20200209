@@ -5,8 +5,6 @@ theme = "pulp"
 copyright = "© Kiri"
 hasCJKLanguage = true
 
-
-
 [params]
   author = "きり"
   avatar = "logo.png"

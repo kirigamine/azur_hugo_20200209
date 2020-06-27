@@ -18,9 +18,7 @@ hasCJKLanguage = true
 [outputs]
     section = ["JSON", "HTML"]
     taxonomy = ["JSON", "HTML"]
-
-      [[menu.main]]
-
+    
       [[menu.main]]
           identifier = "twitter"
           # name = "Twitter"

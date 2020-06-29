@@ -25,6 +25,13 @@ hasCJKLanguage = true
           pre = "<i class='fab fa-twitter fa-lg'></i>"
           url = "https://twitter.com/kirichan_fog"
           weight = 20
+          
+      [[menu.main]]
+          identifier = "tumblr"
+          # name = "Tumblr"
+          pre = "<i class='fab fa-tumblr fa-lg'></i>"
+          url = "https://foggy00ff00.tumblr.com/"
+          weight = 30
 
       [[menu.main]]
           identifier = "soundcloud"

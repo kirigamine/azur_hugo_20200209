@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Polytopus</title>
+    <link>https://kirigamine.github.io/azur_hugo_20200209/</link>
+    <description>Recent content on Polytopus</description>
+    <generator>Hugo</generator>
+    <language>ja-jp</language>
+    <copyright>© Polytopus</copyright>
+    <lastBuildDate>Mon, 02 Mar 2020 07:48:33 +0900</lastBuildDate>
+    <atom:link href="https://kirigamine.github.io/azur_hugo_20200209/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>がんばります</title>
+      <link>https://kirigamine.github.io/azur_hugo_20200209/posts/200302/</link>
+      <pubDate>Mon, 02 Mar 2020 07:48:33 +0900</pubDate>
+      <guid>https://kirigamine.github.io/azur_hugo_20200209/posts/200302/</guid>
+      <description>&lt;p&gt;これから忙しくなりだすので、パロコラでの活動がちょっと低浮上ぎみになると思います。&#xA;それでも創作や、キャラメイクや、おえかきも楽しみたいです！&lt;/p&gt;&#xA;&lt;p&gt;これは今月の目標。あとはお仕事にもなれたいですね！&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>曲ができたよ！</title>
+      <link>https://kirigamine.github.io/azur_hugo_20200209/posts/200228/</link>
+      <pubDate>Fri, 28 Feb 2020 15:42:38 +0900</pubDate>
+      <guid>https://kirigamine.github.io/azur_hugo_20200209/posts/200228/</guid>
+      <description>&lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; allow=&#34;autoplay&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/767756815&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&#34;&gt;&lt;/iframe&gt;&#xA;&lt;p&gt;自分のキャラのテーマを考えるのは一番曲が作りやすいです。&#xA;そしてイメソンは、自分自身で作るのが一番解釈が少ないｗ&lt;/p&gt;&#xA;&lt;p&gt;ちなみにこの子になります。&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://oc-paro.net/charas/view/9132&#34;&gt;弥陀 シキミ&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>とりあえずお引越し！</title>
+      <link>https://kirigamine.github.io/azur_hugo_20200209/posts/200227/</link>
+      <pubDate>Thu, 27 Feb 2020 17:10:53 +0900</pubDate>
+      <guid>https://kirigamine.github.io/azur_hugo_20200209/posts/200227/</guid>
+      <description>&lt;h1 id=&#34;hugoでサイトをつくってみた&#34;&gt;Hugoでサイトをつくってみた。&lt;/h1&gt;&#xA;&lt;p&gt;シンプルでいいテーマを見つけたのでとりあえずこれで。&#xA;パロコラ、バナー改変しちゃったけどこれでいいのかあとで聞いておこう。&lt;/p&gt;&#xA;&lt;p&gt;よろしくおねがいします。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://kirigamine.github.io/azur_hugo_20200209/about/</link>
+      <pubDate>Sun, 09 Feb 2020 18:47:59 +0900</pubDate>
+      <guid>https://kirigamine.github.io/azur_hugo_20200209/about/</guid>
+      <description>&lt;h1 id=&#34;ようこそ&#34;&gt;ようこそ。&lt;/h1&gt;</description>
+    </item>
+  </channel>
+</rss>

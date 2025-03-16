@@ -1,5 +1,5 @@
 # サイト(2020_02/09-2025_03-)
-
+## 覚書
 `baseURL`の確認を忘れずに。ローカル時は`/`、Page稼働時は
 ```config.toml
 baseURL = "https://kirigamine.github.io/"

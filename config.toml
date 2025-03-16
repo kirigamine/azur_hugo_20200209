@@ -1,4 +1,4 @@
-baseURL = "https://kirigamine.github.io/"
+baseURL = "/"
 languageCode = "ja-jp"
 title = "Polytopus"
 theme = "pulp"
@@ -42,3 +42,8 @@ hasCJKLanguage = true
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+      [module]
+[[module.mounts]]
+source = "server"
+target = "layouts"

@@ -1,17 +1,16 @@
-baseURL = "https://kirichan.netlify.com/"
+baseURL = "/"
 languageCode = "ja-jp"
-title = "Kiri"
+title = "Polytopus"
 theme = "pulp"
-copyright = "© Kiri"
-twitterCardEnabled = true
+copyright = "© Polytopus"
 hasCJKLanguage = true
 
 [params]
-  author = "きり"
+  author = "Polytopus"
   avatar = "logo.png"
   description = """
-    きりです。おえかきとおんがくがすきです。<br />
-    オリジナルの作品作ることもすきです。
+    <ruby>多項<rt>たこ</rt></ruby>です。緑目の男とドラムンベースがすきです。<br />
+    いろいろやってます。
   """
       publicationYear = "2020"
 
@@ -23,26 +22,23 @@ hasCJKLanguage = true
           identifier = "twitter"
           # name = "Twitter"
           pre = "<i class='fab fa-twitter fa-lg'></i>"
-          url = "https://twitter.com/kirichan_fog"
-          weight = 20
-          
-      [[menu.main]]
-          identifier = "tumblr"
-          # name = "Tumblr"
-          pre = "<i class='fab fa-tumblr fa-lg'></i>"
-          url = "https://foggy00ff00.tumblr.com/"
-          weight = 30
+          url = "https://twitter.com/kiri_mist_fog"
+          weight = 10
 
       [[menu.main]]
           identifier = "soundcloud"
           # name = "soundcloud"
           pre = "<i class='fab fa-soundcloud fa-lg'></i>"
-          url = "https://soundcloud.com/kirikirifoggy"
-          weight = 40
+          url = "https://soundcloud.com/polytopus"
+          weight = 20
 
       [[menu.main]]
           identifier = "instagram"
           # name = "instagram"
           pre = "<i class='fab fa-instagram fa-lg'></i>"
-          url = "https://www.instagram.com/kiriwithpen/"
-          weight = 50
+          url = "https://www.instagram.com/polytopus_/"
+          weight = 30
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

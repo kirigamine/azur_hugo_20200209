@@ -1,0 +1,3 @@
+# Hugoの生成ファイルを無視
+public/
+resources/

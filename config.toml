@@ -1,4 +1,4 @@
-baseURL = "https://kirigamine.github.io/azur_hugo_20200209/"
+baseURL = "/"
 languageCode = "ja-jp"
 title = "Polytopus"
 theme = "pulp"

@@ -28,3 +28,10 @@ HUGO_VERSION = "0.59.1"
 
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
+
+[build]
+  command = "hugo"
+  publish = "public"
+
+[context.production.environment]
+  HUGO_VERSION = "0.145.0" # 今ローカルで使ってるバージョンを指定

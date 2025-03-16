@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://kirigamine.github.io/azur_hugo_20200209/"
 languageCode = "ja-jp"
 title = "Polytopus"
 theme = "pulp"
@@ -12,7 +12,7 @@ hasCJKLanguage = true
     <ruby>多項<rt>たこ</rt></ruby>です。緑目の男とドラムンベースがすきです。<br />
     いろいろやってます。
   """
-      publicationYear = "2020"
+      publicationYear = "2025"
 
 [outputs]
     section = ["JSON", "HTML"]
